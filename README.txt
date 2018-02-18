@@ -1,5 +1,11 @@
 Blackjack; Created by Michael @ Intuitive Designs.
 
+Required Modules:
+     random library (Comes standard with Python)
+     Quantum Random module (Must be downloaded)
+          Valid Link to Download as of 02/17/2018:
+               https://pypi.python.org/pypi/quantumrandom/
+
 Play a great game of Blackjack on your command line! The program creates a real-time deck
 that is shuffled natturally (the randomization process in the shuffle function mimics
 the effect of real-life card shuffling; I don't simply use a random generator).
