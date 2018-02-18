@@ -23,6 +23,9 @@ deck = [**imagine A, 2-10, J, Q, K in a dict with their matching
 numerical values of 1-13 for brevity**]
 x = next(iter(deck)
 y = next(iter(deck)
+print("Player 1's Hand:\n", x, y)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 See how this program iterates through a deck just how you would "iterate" through a deck in
 real life? This is the goal of this project.
